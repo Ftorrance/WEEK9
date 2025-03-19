@@ -1,0 +1,4 @@
+WEEK9_ENV/
+__pycache__/
+*.log
+.DS_Store
